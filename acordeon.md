@@ -18,4 +18,14 @@
 - Muestra lo que cambió
 
 
+### $ git branch <NOMBRERAMA>
+### $ git merge <RAMAOBJETIVO>
+### $ git checkout -b <NOMBRERAMA>
+### $ git diff
+### $ git branch -D <NOMBRERAMA>
+### $ git remote add <NOMBREREMOTO> <URL>
+### $ git remote remove <NOMBREREMOTO>
+### $ git pull <NOMBREREMOTO>
+### $ git push <NOMBREREMOTO> <RAMAREMOTA>
+### $ git clone <URL> <ENCARPETALOCAL>
 
