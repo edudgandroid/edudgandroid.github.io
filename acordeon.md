@@ -29,3 +29,15 @@
 ### $ git push <NOMBREREMOTO> <RAMAREMOTA>
 ### $ git clone <URL> <ENCARPETALOCAL>
 
+
+Crea una rama hija.
+Fusiona la rama actual con la objetivo.
+Para moverse entre ramas en lugar de commits.
+Muestra lo que cambió
+Para borrar una rama.
+
+
+Jala el último estado del repositorio remoto.
+Manda los cambios en el repositorio local al remoto.
+
+
